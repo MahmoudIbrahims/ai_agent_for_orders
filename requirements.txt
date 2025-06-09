@@ -1,0 +1,12 @@
+crewai==0.28.8
+crewai-tools==0.1.6
+langchain==0.1.17
+langchain-openai==0.1.7
+langchain-google-genai==1.0.6
+google-api-python-client==2.88.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==2.0.0
+python-dotenv==1.0.0
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
