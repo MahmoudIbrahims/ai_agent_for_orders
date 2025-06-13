@@ -38,3 +38,11 @@ ai_agent_project/
 ├── .env.example                      # Example .env for reference
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
+```
+
+## Create a new environment and activate :
+```
+sudo conda create -n ai_Agent python=3.10
+conda activate ai_Agent
+```
+
